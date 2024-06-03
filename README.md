@@ -1,1 +1,1 @@
-https://dorinvest.pythonanywhere.com/
+https://dorinvest.pythonanywhere.com/ended_show/
