@@ -1,1 +1,1 @@
-https://dorinvest.pythonanywhere.com/ended_show/
+https://dorinvest.pythonanywhere.com/show/ishu-druga/
